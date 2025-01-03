@@ -73,6 +73,9 @@ value x1("x1", 2.0), x2("x2", 0.0), b("b", 6.8813735), w1("w1", -3.0), w2("w2", 
 
 The program constructs a computational graph and prints its structure, including data, operations, gradients, and memory addresses of nodes.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1ebd7001-c90f-41a8-94b9-ec669fe786bf" alt="image">
+</p>
 
 
 ## Contributing
